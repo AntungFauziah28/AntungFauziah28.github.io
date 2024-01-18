@@ -772,7 +772,7 @@ h1, h2, h3, h4, h5,
 .hero-slide {
   position: relative;
   overflow: hidden; 
-   max-height: 768px;
+   max-height: 740px;
   }
 
   .hero-slide .intro-section h1 {
